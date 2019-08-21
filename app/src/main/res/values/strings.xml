@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyContactApp</string>
+    <string name="Phone">Phone</string>
+    <string name="Group">Group</string>
+    <string name="Favourite">Favourite</string>
+    <string name="Contact">Contact</string>
+    <string name="username">username</string>
+    <string name="ProfilePic">TODO</string>
+    <string name="mobile">mobile</string>
+    <string name="email">email</string>
+    <string name="showname">TextView</string>
+    <string name="propleViewProPic">TODO</string>
+    <string name="showMobile">TextView</string>
+    <string name="showEmail">TextView</string>
+    <string name="showGroups">TextView</string>
+    <string name="showRingtone">TextView</string>
+    <string name="Groups">TextView</string>
+    <string name="favourite_view">TextView</string>
+    <string name="contact_view">TextView</string>
+</resources>
